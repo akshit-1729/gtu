@@ -1,0 +1,8 @@
+ db.sales.find(
+	{$and: 
+		[
+			{$or: [{item : "Americanos"}, {item : "Mochas"}]}, 
+			{$or : [{ size "Short"}, {size : "tall"}]}
+		]
+	}
+)

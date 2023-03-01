@@ -1,0 +1,45 @@
+{
+'name':'Harry',
+'lang':'javascript',
+'member_science': 2001
+},
+{
+'name':'Ron',
+'lang':'c++',
+'member_science': 2008
+},
+{
+'name':'Griddich',
+'lang':'ruby',
+'member_science': 2015
+}])
+
+
+([{
+'name':'Hermione',
+'lang':'javascript',
+'member_since': 2005
+},
+{
+'name':'Hermione',
+'lang':'ruby',
+'member_since': 2005
+}])
+
+
+
+{
+'name':'Quiddich',
+'lang':'javascript',
+'member_since': 2005
+}
+
+
+
+(quantity should be less than 10 or grater than 50) and (sell should be true or price should be less than 5) 
+
+create small database for insta or fb to store information regarding the post.
+
+
+
+
